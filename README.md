@@ -4,13 +4,13 @@ Choose your AI client to get started:
 
 | AI Client | Difficulty | Guide |
 |-----------|-----------|-------|
-| **Claude Code** | Easiest (one command) | [Setup Guide](claude-code.md) |
-| **Claude Desktop** | Moderate (config file edit) | [Setup Guide](claude-desktop.md) |
-| **Cursor IDE** | Moderate (config file edit) | [Setup Guide](cursor.md) |
+| **Claude Code** | Easiest (one command) | [Setup Guide](https://github.com/hellojaywilcox/design-bridge-mcp/blob/main/setup/claude-code.md) |
+| **Claude Desktop** | Moderate (config file edit) | [Setup Guide](https://github.com/hellojaywilcox/design-bridge-mcp/blob/main/setup/claude-code.md) |
+| **Cursor IDE** | Moderate (config file edit) | [Setup Guide](https://github.com/hellojaywilcox/design-bridge-mcp/blob/main/setup/cursor.md) |
 
 ## Quick Start
 
-1. Install the **Design Bridge MCP** plugin from the [Framer Marketplace](https://framer.com/marketplace)
+1. Install the **Design Bridge MCP** plugin from the [Framer Marketplace](https://www.framer.com/marketplace/plugins/design-bridge-mcp/)
 2. Open the plugin in your Framer project
 3. Copy the MCP URL shown in the plugin
 4. Follow the setup guide for your AI client above
@@ -29,4 +29,4 @@ When you make a request through your AI client, it travels through a secure Clou
 
 ## Need Help?
 
-Open an issue on our [GitHub repository](https://github.com/hellojaywilcox/framer-mcp) or reach out to [@hellojaywilcox](https://x.com/hellojaywilcox) on X.
+Reach out to [@hellojaywilcox](https://x.com/hellojaywilcox) on X.
