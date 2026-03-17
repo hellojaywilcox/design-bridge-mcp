@@ -333,4 +333,4 @@ The plugin UI would collect the user's project URL and API key (stored locally i
 
 ---
 
-*Marketplace: [framer.com/marketplace/plugins/design-bridge-mcp](https://framer.com/marketplace/plugins/design-bridge-mcp) (ID: f3a8c2)*
+*Marketplace: [framer.com/marketplace/plugins/design-bridge-mcp](https://framer.com/marketplace/plugins/design-bridge-mcp)*
